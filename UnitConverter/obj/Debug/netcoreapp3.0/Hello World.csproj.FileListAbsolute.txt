@@ -1,0 +1,34 @@
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\bin\Debug\netcoreapp3.0\Hello World.exe
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\bin\Debug\netcoreapp3.0\Hello World.deps.json
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\bin\Debug\netcoreapp3.0\Hello World.runtimeconfig.json
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\bin\Debug\netcoreapp3.0\Hello World.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\bin\Debug\netcoreapp3.0\Hello World.dll
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\bin\Debug\netcoreapp3.0\Hello World.pdb
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\obj\Debug\netcoreapp3.0\Hello World.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\obj\Debug\netcoreapp3.0\Hello World_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\obj\Debug\netcoreapp3.0\Hello World_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\obj\Debug\netcoreapp3.0\Hello World.g.resources
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\obj\Debug\netcoreapp3.0\Hello World.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\obj\Debug\netcoreapp3.0\Hello World.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\obj\Debug\netcoreapp3.0\Hello World.dll
+C:\Users\Administrator\Desktop\Biny B.k\work shop\Visual studio communtity\Hello World\obj\Debug\netcoreapp3.0\Hello World.pdb
+C:\Users\User\Desktop\Hello World\bin\Debug\netcoreapp3.0\Hello World.exe
+C:\Users\User\Desktop\Hello World\bin\Debug\netcoreapp3.0\Hello World.deps.json
+C:\Users\User\Desktop\Hello World\bin\Debug\netcoreapp3.0\Hello World.runtimeconfig.json
+C:\Users\User\Desktop\Hello World\bin\Debug\netcoreapp3.0\Hello World.runtimeconfig.dev.json
+C:\Users\User\Desktop\Hello World\bin\Debug\netcoreapp3.0\Hello World.dll
+C:\Users\User\Desktop\Hello World\obj\Debug\netcoreapp3.0\Hello World.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Hello World\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\User\Desktop\Hello World\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\User\Desktop\Hello World\obj\Debug\netcoreapp3.0\Hello World_MarkupCompile.cache
+C:\Users\User\Desktop\Hello World\obj\Debug\netcoreapp3.0\Hello World_MarkupCompile.lref
+C:\Users\User\Desktop\Hello World\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\User\Desktop\Hello World\obj\Debug\netcoreapp3.0\Hello World.g.resources
+C:\Users\User\Desktop\Hello World\obj\Debug\netcoreapp3.0\Hello World.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Hello World\obj\Debug\netcoreapp3.0\Hello World.AssemblyInfo.cs
+C:\Users\User\Desktop\Hello World\obj\Debug\netcoreapp3.0\Hello World.dll
+C:\Users\User\Desktop\Hello World\obj\Debug\netcoreapp3.0\Hello World.pdb
+C:\Users\User\Desktop\Hello World\bin\Debug\netcoreapp3.0\Hello World.pdb
